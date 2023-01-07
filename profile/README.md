@@ -1,4 +1,4 @@
-## Hi, welcome to the MadMachine community👋
+## Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, welcome to the MadMachine community
 
 
 📣Yes, now Swift language can run on microcontrollers. Previously, you may primarily program iOS apps using Swift. Now, you can control various hardware and build interactive projects by writing Swift code. This is a completely new experience!
